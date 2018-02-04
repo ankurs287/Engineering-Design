@@ -1,2 +1,2 @@
 # IED
-(Introduction to engineering design)
+(Introduction to Engineering Design)
